@@ -1,11 +1,12 @@
-requests>=2.31.0
-pandas>=2.1,<2.3
-python-dotenv>=1.0.0
 fastapi
 uvicorn
+pandas
+requests
 msal
 azure-storage-blob
+python-multipart
 openpyxl
+
 
 
 

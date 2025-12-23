@@ -201,6 +201,8 @@ import os
 import tempfile
 from msal import ConfidentialClientApplication
 from azure.storage.blob import BlobServiceClient
+from dotenv import load_dotenv
+load_dotenv()
 
 app = FastAPI(title="Power BI Dataset & Report Generator")
 
