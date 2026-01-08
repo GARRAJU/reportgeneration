@@ -6,6 +6,11 @@ requests
 msal
 azure-storage-blob
 python-dotenv
+fastapi
+uvicorn[standard]
+gunicorn
+requests
+python-dotenv
 
 
 
